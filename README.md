@@ -12,4 +12,8 @@ You can find the Pre-Built DLL "internal.dll" on the base directory.
 
 Features:
 	- Packet logging (send/recieve)
-	- Message logging (console: example adds [INTERNAL] to every message)
+	- Message logging (console: example adds [STANKY LEG] to every message)
+	
+Screenshot:
+
+![Internal Screenshot](https://i.imgur.com/0c9BxMX.png)
