@@ -11,9 +11,11 @@ Testing:
 You can find the Pre-Built DLL "internal.dll" on the base directory.
 
 Features:
-	- Packet logging (send/recieve)
-	- Message logging (console: example adds [STANKY LEG] to every message)
-	
+	* Packet logging (send/recieve)
+	* Message logging (console: example adds [STANKY LEG] to every message)
+
+# For Help contact ZZQ#1478 on Discord.
+
 Screenshot:
 
 ![Internal Screenshot](https://i.imgur.com/0c9BxMX.png)
