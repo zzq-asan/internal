@@ -11,8 +11,11 @@ Testing:
 You can find the Pre-Built DLL "internal.dll" on the base directory.
 
 Features:
-	* Packet logging (send/recieve)
-	* Message logging (console: example adds [STANKY LEG] to every message)
+* Variant List logging (function calls)
+* Packet logging (send/recieve)
+* Message logging (console: binary adds [ZZQ INTERNAL] to every message)
+* Automatic unban
+* Version bypass (DLL is for 3.36 but works with 3.37)
 
 # For Help contact ZZQ#1478 on Discord.
 
